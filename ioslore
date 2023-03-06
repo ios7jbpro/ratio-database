@@ -1,0 +1,153 @@
+Tony, [24.10.2022 15:39]
+Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance and commercially sponsored by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.
+
+Most versions of Android are proprietary. The core components are taken from the Android Open Source Project (AOSP), which is free and open-source software (FOSS) primarily licensed under the Apache License. When Android is installed on devices, ability to modify the otherwise FOSS software is usually restricted, either by not providing the corresponding source code or preventing reinstallation through technical measures, rendering the installed version proprietary. Most Android devices ship with additional proprietary software pre-installed,[4] most notably Google Mobile Services (GMS)[5] which includes core apps such as Google Chrome, the digital distribution platform Google Play, and associated Google Play Services development platform.
+
+Over 70 percent of Android smartphones run Google's ecosystem; some with vendor-customized user interface and software suite, such as TouchWiz and later One UI by Samsung, and HTC Sense.[6] Competing Android ecosystems and forks include Fire OS (developed by Amazon), ColorOS by OPPO, OriginOS by vivo and MagicUI by Honor, or custom ROMs such as LineageOS. However, the "Android" name and logo are trademarks of Google which imposes standards to restrict the use of Android branding by "uncertified" devices outside their ecosystem.[7][8]
+
+The source code has been used to develop variants of Android on a range of other electronics, such as game consoles, digital cameras, portable media players, PCs, each with a specialized user interface. Some well known derivatives include Android TV for televisions and Wear OS for wearables, both developed by Google. Software packages on Android, which use the APK format, are generally distributed through proprietary application stores like Google Play Store, Amazon Appstore (including for Windows 11), Samsung Galaxy Store, Huawei AppGallery, Cafe Bazaar, and GetJar, or open source platforms like Aptoide or F-Droid.
+
+Android has been the best-selling OS worldwide on smartphones since 2011 and on tablets since 2013. As of May 2021, it has over three billion monthly active users, the largest installed base of any operating system,[9] and as of January 2021, the Google Play Store features over 3 million apps.[10] Android 13, released on August 15, 2022, is the latest version.[11]
+
+
+Contents
+1  History
+2  Features
+2.1  Interface
+2.1.1  Home screen
+2.1.2  Status bar
+2.1.3  Notifications
+2.1.4  App lists
+2.1.5  Navigation buttons
+2.1.6  Split-screen view
+2.1.7  Charging while powered off
+2.1.8  Audio-coupled haptic effect
+2.2  Applications
+2.3  Storage
+2.4  Memory management
+2.5  Developer options
+3  Hardware
+4  Development
+4.1  Update schedule
+4.2  Linux kernel
+4.3  Rooting
+4.4  Software stack
+4.5  Open-source community
+4.6  Device codenames
+5  Security and privacy
+5.1  Common security threats
+5.1.1  Scope of surveillance by public institutions
+5.1.2  Security patches
+5.2  Location-tracking
+5.3  Further notable exploits
+5.4  Technical security features
+5.5  Google Play Services and vendor changes
+6  Licensing
+6.1  Leverage over manufacturers
+7  Reception
+7.1  Market share
+7.2  Adoption on tablets
+7.3  Platform information
+7.4  Application piracy
+8  Legal issues
+8.1  Patent lawsuit with Oracle
+8.2  Anti-competitive challenges in Europe
+8.3  Others
+9  Other uses
+10  Mascot
+11  See also
+12  References
+12.1  Explanatory notes
+12.2  Citations
+13  External links
+History
+See also: Android version history
+
+First Android logotype (2007–2014)
+
+Second Android logotype (2014–2015)
+
+Third Android logotype (2015–2019)
+
+Tony, [24.10.2022 15:39]
+Fourth Android logotype (2019–present)
+Android Inc. was founded in Palo Alto, California, in October 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.[12][13] Rubin described the Android project as having "tremendous potential in developing smarter mobile devices that are more aware of its owner's location and preferences".[13] The early intentions of the company were to develop an advanced operating system for digital cameras, and this was the basis of its pitch to investors in April 2004.[14] The company then decided that the market for cameras was not large enough for its goals, and five months later it had diverted its efforts and was pitching Android as a handset operating system that would rival Symbian and Microsoft Windows Mobile.[14][15]
+
+Rubin had difficulty attracting investors early on, and Android was facing eviction from its office space. Steve Perlman, a close friend of Rubin, brought him $10,000 in cash in an envelope, and shortly thereafter wired an undisclosed amount as seed funding. Perlman refused a stake in the company, and has stated "I did it because I believed in the thing, and I wanted to help Andy."[16][17]
+
+In 2005, Rubin tried to negotiate deals with Samsung[18] and HTC.[19] Shortly afterwards, Google acquired the company in July of that year for at least $50 million;[13][20] this was Google's "best deal ever" according to Google's then-vice president of corporate development, David Lawee, in 2010.[18] Android's key employees, including Rubin, Miner, Sears, and White, joined Google as part of the acquisition.[13] Not much was known about the secretive Android Inc. at the time, with the company having provided few details other than that it was making software for mobile phones.[13] At Google, the team led by Rubin developed a mobile device platform powered by the Linux kernel. Google marketed the platform to handset makers and carriers on the promise of providing a flexible, upgradeable system.[21] Google had "lined up a series of hardware components and software partners and signaled to carriers that it was open to various degrees of cooperation".[attribution needed][22]
+
+Speculation about Google's intention to enter the mobile communications market continued to build through December 2006.[23] An early prototype had a close resemblance to a BlackBerry phone, with no touchscreen and a physical QWERTY keyboard, but the arrival of 2007's Apple iPhone meant that Android "had to go back to the drawing board".[24][25] Google later changed its Android specification documents to state that "Touchscreens will be supported", although "the Product was designed with the presence of discrete physical buttons as an assumption, therefore a touchscreen cannot completely replace physical buttons".[26] By 2008, both Nokia and BlackBerry announced touch-based smartphones to rival the iPhone 3G, and Android's focus eventually switched to just touchscreens. The first commercially available smartphone running Android was the HTC Dream, also known as T-Mobile G1, announced on September 23, 2008.[27][28]
+
+
+HTC Dream or T-Mobile G1, the first commercially released device running Android (2008)
+On November 5, 2007, the Open Handset Alliance, a consortium of technology companies including Google, device manufacturers such as HTC, Motorola and Samsung, wireless carriers such as Sprint and T-Mobile, and chipset makers such as Qualcomm and Texas Instruments, unveiled itself, with a goal to develop "the first truly open and comprehensive platform for mobile devices".[29][30][31] Within a year, the Open Handset Alliance faced two other open source competitors, the Symbian Foundation and the LiMo Foundation, the latter also developing a Linux-based mobile operating system like Google. In September 2007, InformationWeek covered an Evalueserve study reporting that Google had filed several patent applications in the area of mobile telephony.[32][33]
+
+Tony, [24.10.2022 15:39]
+Since 2008, Android has seen numerous updates which have incrementally improved the operating system, adding new features and fixing bugs in previous releases. Each major release is named in alphabetical order after a dessert or sugary treat, with the first few Android versions being called "Cupcake", "Donut", "Eclair", and "Froyo", in that order. During its announcement of Android KitKat in 2013, Google explained that "Since these devices make our lives so sweet, each Android version is named after a dessert", although a Google spokesperson told CNN in an interview that "It's kind of like an internal team thing, and we prefer to be a little bit—how should I say—a bit inscrutable in the matter, I'll say".[34]
+
+In 2010, Google launched its Nexus series of devices, a lineup in which Google partnered with different device manufacturers to produce new devices and introduce new Android versions. The series was described as having "played a pivotal role in Android's history by introducing new software iterations and hardware standards across the board", and became known for its "bloat-free" software with "timely ... updates".[35] At its developer conference in May 2013, Google announced a special version of the Samsung Galaxy S4, where, instead of using Samsung's own Android customization, the phone ran "stock Android" and was promised to receive new system updates fast.[36] The device would become the start of the Google Play edition program, and was followed by other devices, including the HTC One Google Play edition,[37] and Moto G Google Play edition.[38] In 2015, Ars Technica wrote that "Earlier this week, the last of the Google Play edition Android phones in Google's online storefront were listed as "no longer available for sale" and that "Now they're all gone, and it looks a whole lot like the program has wrapped up".[39][40]
+
+
+Eric Schmidt, Andy Rubin and Hugo Barra at a 2012 press conference announcing Google's Nexus 7 tablet
+From 2008 to 2013, Hugo Barra served as product spokesperson, representing Android at press conferences and Google I/O, Google's annual developer-focused conference. He left Google in August 2013 to join Chinese phone maker Xiaomi.[41][42] Less than six months earlier, Google's then-CEO Larry Page announced in a blog post that Andy Rubin had moved from the Android division to take on new projects at Google, and that Sundar Pichai would become the new Android lead.[43][44] Pichai himself would eventually switch positions, becoming the new CEO of Google in August 2015 following the company's restructure into the Alphabet conglomerate,[45][46] making Hiroshi Lockheimer the new head of Android.[47][48]
+
+On Android 4.4 Kit Kat, shared writing access to MicroSD memory cards has been locked for user-installed applications, to which only the dedicated directories with respective package names, located inside Android/data/, remained writeable. Writing access has been reinstated with Android 5 Lollipop through the backwards-incompatible Google Storage Access Framework interface.[49]
+
+Tony, [24.10.2022 15:39]
+In June 2014, Google announced Android One, a set of "hardware reference models" that would "allow [device makers] to easily create high-quality phones at low costs", designed for consumers in developing countries.[50][51][52] In September, Google announced the first set of Android One phones for release in India.[53][54] However, Recode reported in June 2015 that the project was "a disappointment", citing "reluctant consumers and manufacturing partners" and "misfires from the search company that has never quite cracked hardware".[55] Plans to relaunch Android One surfaced in August 2015,[56] with Africa announced as the next location for the program a week later.[57][58] A report from The Information in January 2017 stated that Google is expanding its low-cost Android One program into the United States, although The Verge notes that the company will presumably not produce the actual devices itself.[59][60] Google introduced the Pixel and Pixel XL smartphones in October 2016, marketed as being the first phones made by Google,[61][62] and exclusively featured certain software features, such as the Google Assistant, before wider rollout.[63][64] The Pixel phones replaced the Nexus series,[65] with a new generation of Pixel phones launched in October 2017.[66]
+
+In May 2019, the operating system became entangled in the trade war between China and the United States involving Huawei, which, like many other tech firms, had become dependent on access to the Android platform.[67][68] In the summer of 2019, Huawei announced it would create an alternative operating system to Android[69] known as Harmony OS,[70] and has filed for intellectual property rights across major global markets.[71][72] Under such sanctions Huawei has long-term plans to replace Android in 2022 with the new operating system, as Harmony OS was originally designed for internet of things devices, rather than for smartphones and tablets.[73]
+
+On August 22, 2019, it was announced that Android "Q" would officially be branded as Android 10, ending the historic practice of naming major versions after desserts. Google stated that these names were not "inclusive" to international users (due either to the aforementioned foods not being internationally known, or being difficult to pronounce in some languages).[74][75] On the same day, Android Police reported that Google had commissioned a statue of a giant number "10" to be installed in the lobby of the developers' new office.[76] Android 10 was released on September 3, 2019, to Google Pixel phones first.
+
+Features
+Main article: List of features in Android
+Interface
+Android's default user interface is mainly based on direct manipulation, using touch inputs that loosely correspond to real-world actions, like swiping, tapping, pinching, and reverse pinching to manipulate on-screen objects, along with a virtual keyboard.[77] Game controllers and full-size physical keyboards are supported via Bluetooth or USB.[78][79] The response to user input is designed to be immediate and provides a fluid touch interface, often using the vibration capabilities of the device to provide haptic feedback to the user. Internal hardware, such as accelerometers, gyroscopes and proximity sensors are used by some applications to respond to additional user actions, for example adjusting the screen from portrait to landscape depending on how the device is oriented,[80] or allowing the user to steer a vehicle in a racing game by rotating the device, simulating control of a steering wheel.[81]
+
+Tony, [24.10.2022 15:39]
+Home screen
+Android devices boot to the home screen, the primary navigation and information "hub" on Android devices, analogous to the desktop found on personal computers. Android home screens are typically made up of app icons and widgets; app icons launch the associated app, whereas widgets display live, auto-updating content, such as a weather forecast, the user's email inbox, or a news ticker directly on the home screen.[82] A home screen may be made up of several pages, between which the user can swipe back and forth.[83] Third-party apps available on Google Play and other app stores can extensively re-theme the home screen,[84] and even mimic the look of other operating systems, such as Windows Phone.[85] Most manufacturers customize the look and features of their Android devices to differentiate themselves from their competitors.[86]
+
+Status bar
+Along the top of the screen is a status bar, showing information about the device and its connectivity. This status bar can be pulled (swiped) down from to reveal a notification screen where apps display important information or updates, as well as quick access to system controls and toggles such as display brightness, connectivity settings (WiFi, Bluetooth, cellular data), audio mode, and flashlight.[83] Vendors may implement extended settings such as the ability to adjust the flashlight brightness.[87]
+
+Notifications
+Notifications are "short, timely, and relevant information about your app when it's not in use", and when tapped, users are directed to a screen inside the app relating to the notification.[88] Beginning with Android 4.1 "Jelly Bean", "expandable notifications" allow the user to tap an icon on the notification in order for it to expand and display more information and possible app actions right from the notification.[89]
+
+App lists
+An "All Apps" screen lists all installed applications, with the ability for users to drag an app from the list onto the home screen. The app list may be accessed using a gesture or a button, depending on the Android version. A "Recents" screen, also known as "Overview", lets users switch between recently used apps.[83]
+
+The recent list may appear side-by-side or overlapping, depending on the Android version and manufacturer.[90]
+
+Navigation buttons
+
+Front buttons (home, menu/options, go back, search) and optical track pad of an HTC Desire, a 2010 smartphone with Android OS
+Many early Android OS smartphones were equipped with a dedicated search button for quick access to a web search engine and individual apps' internal search feature. More recent devices typically allow the former through a long press or swipe away from the home button.[91]
+
+The dedicated option key, also known as menu key, and its on-screen simulation, is no longer supported since Android version 10. Google recommends mobile application developers to locate menus within the user interface.[91] On more recent phones, its place is occupied by a task key used to access the list of recently used apps when actuated. Depending on device, its long press may simulate a menu button press or engage split screen view, the latter of which is the default behaviour since stock Android version 7.[92][93][94]
+
+Split-screen view
+Native support for split screen view has been added in stock Android version 7.0 Nougat.[94]
+
+The earliest vendor-customized Android-based smartphones known to have featured a split-screen view mode are the 2012 Samsung Galaxy S3 and Note 2, the former of which received this feature with the premium suite upgrade delivered in TouchWiz with Android 4.1 Jelly Bean.[95]
+
+Charging while powered off
+When connecting or disconnecting charging power and when shortly actuating the power button or home button, all while the device is powered off, a visual battery meter whose appearance varies among vendors appears on the screen, allowing the user to quickly assess the charge status of a powered-off without having to boot it up first. Some display the battery percentage.[96]
+
+Tony, [24.10.2022 15:39]
+Audio-coupled haptic effect
+Since stock Android version 12, released early 2021, synchronous vibration can be set to complement audio.[97][98] Such feature initially existed under the name "Auto Haptic" on the Android-based 2012 Samsung Galaxy S III, released with a vendor-modified (TouchWiz) installation of Android 4.1 Jelly Bean.[99]
+
+Applications
+Many, to almost all, Android devices come with preinstalled Google apps including Gmail, Google Maps, Google Chrome, YouTube, Google Play Music, Google Play Movies & TV, and many more.
+
+See also: Android software development and Google Play
+Applications ("apps"), which extend the functionality of devices (and must be 64-bit[100]), are written using the Android software development kit (SDK)[101] and, often, Kotlin programming language, which replaced Java as Google's preferred language for Android app development in May 2019,[102] and was originally announced in May 2017.[103][104] Java is still supported (originally the only option for user-space programs, and is often mixed with Kotlin), as is C++.[105] Java or other JVM languages, such as Kotlin, may be combined with C/C++,[106] together with a choice of non-default runtimes that allow better C++ support.[107] The Go programming language is also supported, although with a limited set of application programming interfaces (API).[108]
+
+The SDK includes a comprehensive set of development tools,[109] including a debugger, software libraries, a handset emulator based on QEMU, documentation, sample code, and tutorials. Initially, Google's supported integrated development environment (IDE) was Eclipse using the Android Development Tools (ADT) plugin; in December 2014, Google released Android Studio, based on IntelliJ IDEA, as its primary IDE for Android application development. Other development tools are available, including a native development kit (NDK) for applications or extensions in C or C++, Google App Inventor, a visual environment for novice programmers, and various cross platform mobile web applications frameworks. In January 2014, Google unveiled a framework based on Apache Cordova for porting Chrome HTML 5 web applications to Android, wrapped in a native application shell.[110] Additionally, Firebase was acquired by Google in 2014 that provides helpful tools for app and web developers.[111]
+
+Android has a growing selection of third-party applications, which can be acquired by users by downloading and installing the application's APK (Android application package) file, or by downloading them using an application store program that allows users to install, update, and remove applications from their devices. Google Play Store is the primary application store installed on Android devices that comply with Google's compatibility requirements and license the Google Mobile Services software.[112][113] Google Play Store allows users to browse, download and update applications published by Google and third-party developers; as of January 2021, there are more than three million applications available for Android in Play Store.[10][114] As of July 2013, 50 billion application installations had been performed.[115][116] Some carriers offer direct carrier billing for Google Play application purchases, where the cost of the application is added to the user's monthly bill.[117] As of May 2017, there are over one billion active users a month for Gmail, Android, Chrome, Google Play and Maps.
+
+Due to the open nature of Android, a number of third-party application marketplaces also exist for Android, either to provide a substitute for devices that are not allowed to ship with Google Play Store, provide applications that cannot be offered on Google Play Store due to policy violations, or for other reasons. Examples of these third-party stores have included the Amazon Appstore, GetJar, and SlideMe. F-Droid, another alternative marketplace, seeks to only provide applications that are distributed under free and open source licenses.[112][118][119][120]
