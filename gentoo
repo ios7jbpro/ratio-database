@@ -1,0 +1,67 @@
+Jump to: content
+Toggle navigation
+Jump to:navigationJump to:search
+
+moo
+Welcome to the Gentoo wiki!
+Larry the cow beckons you to explore the Gentoo wiki!
+
+ Available documentation
+To find information use the search box on the top right corner of the screen, or categorically browse the wiki using the Documentation topic links provided below.
+
+Both official Gentoo project documentation as well as community-contributed content can be found here. The vast majority of documentation is publicly editable. Official documents have a Handbook: or Project: prefix (only developers can edit them). Community members can leave comments/feedback for these pages via their respective Discussion pages.
+
+Find something to add or edit? The Getting started section (below) gives contributors a few pointers on how to start editing articles.
+
+Most importantly, the Gentoo Handbook is among the best documents found on the wiki:
+
+ Gentoo Handbook (Official installation documentation)
+Documentation topics
+ Core system
+ Software
+ Hardware
+ Desktop
+ Server and security
+ Project and community
+Contributing
+ Wiki guidelines
+ Article blueprints
+ Translator account requests
+ News
+March 10, 2023: New IRC bot for the wiki's recent changes!
+Gentoo's newest developer P.Fox (ris) , who done some great work improving our documentation over the last year, has now taken up the Gentoo cloak officially. As a first fruit of his promising involvement, the wiki project is happy to announce that we now have an experimental IRC bot lurking in a newly created #gentoo-wiki-changes (webchat) channel. We expect to develop the bot's intelligence and capabilities for wiki maintenance in future updates.
+
+Please join our new channel if you want to watch our bot spam changes in (nearly) real time. As mentioned, this bot is experimental, and we are open to receiving any helpful feedback and critique as we explore the bot's use case as a monitoring mechanism and discussion facilitator... while you're there, be sure you extend a greeting to P.Fox (ris) !
+
+
+January 9, 2023: Wiki emails to Gmail accounts issue has been fixed!
+Greetings and happy New Year! We are happy to announce that the issue (bug #856757) preventing wiki email messages from being received at Gmail accounts has been (finally!) resolved.
+
+Larry was utterly happy to moo-ve on from that hurd-le...
+Wiki news archive...
+
+
+ Getting started
+Anyone is welcome to edit or create pages on this wiki.
+
+Gentoo wiki contributors encourage beginners to consult the Help page before making edits. It also links to the MediaWiki User's Guide which contains information on how to use wiki software.
+
+If there is something we can improve please let us know on the Feedback page.
+
+For questions related to using or editing the documentation on the wiki, please join us in our #gentoo-wiki (webchat) IRC channel on Libera.chat or email us at wiki@gentoo.org.
+
+Please note: For general Gentoo support, such as getting advise on a particular Handbook section or other generic support questions, please get in touch with our support community instead. General support is not provided by the wiki project.
+
+ Recently added pages
+16:18, 13 May 2023 ‎Keyboard layout switching/ta (hist | edit) ‎[21,368 bytes] ‎Kingoflove (talk | contribs) (Created page with "விசைபலகை இடுவெளியை மாற்றுதல்")
+10:30, 13 May 2023 ‎Desktop environment/ta (hist | edit) ‎[6,698 bytes] ‎Kingoflove (talk | contribs) (Created page with "பணித்தள சூழல்")
+19:49, 12 May 2023 ‎Display manager/ta (hist | edit) ‎[10,577 bytes] ‎Kingoflove (talk | contribs) (Created page with "திரை மேலாளர்")
+10:07, 11 May 2023 ‎MATE/en (hist | edit) ‎[16,218 bytes] ‎FuzzyBot (talk | contribs) (Updating to match new version of source page)
+09:52, 11 May 2023 ‎Lumina/en (hist | edit) ‎[1,438 bytes] ‎FuzzyBot (talk | contribs) (Updating to match new version of source page)
+Category: Gentoo Wiki
+This page was last modified on 10 March 2023, at 23:18.
+Privacy policy
+About Gentoo Wiki
+Disclaimers
+© 2001–2023 Gentoo Authors
+Gentoo is a trademark of the Gentoo Foundation, Inc. The contents of this document, unless otherwise expressly stated, are licensed under the CC-BY-SA-4.0 license. The Gentoo Name and Logo Usage Guidelines apply.
