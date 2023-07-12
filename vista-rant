@@ -1,0 +1,28 @@
+Okay so starting off simple, 
+-first of all we need to make sure our Vista is up-to-date with all the latest updates if possible you can also go a step further and install the server 2008 updates but it received updates for just a few more months so it doesn't matter. At the moment service pack 2 is the latest official service pack provided by Microsoft with no unofficial SPs available however an unofficial service pack 3 is in making and I'll update this when it arrives.
+
+-With that out of the way, we should NOT use ANY chromium based browser as none of them are officially supported by stock and most of the Firefox based browsers are unsupported as well. The best bets you got for a new browser on Vista is MyPal.
+
+-We NEED an antivirus, I'd say you're off to a great start if you use the extremely famous but underrated AV known as "Brain Antivirus" as it'll work forever and on any version of Windows!
+
+
+Now.... with the basic stuff out of the way, let's get to the fun part!
+
+You might be wondering "who in the fuck would use vista instead of 7 lmao that's so fucking dumb" well.... 2 words: extended kernel.
+
+-We need to get the latest version of Windows Vista's extended kernel now, a small project by the legendary win32 which aims to extending the kernel libraries, getting the kernel is pretty simple as you can find it on a site which I'll put here later. Just extract the zip and run the installer and with a reboot we're off!......or are we?
+
+-Well, the apps will work now but they still think it's vista and they don't like that so now we go to C:/Windows and make a new file called osver.ini and paste in app specific properties in there. I recommend you make a shortcut of the file on the desktop as you'll need to edit it quite often which I'll explain later
+
+-And boom! Most windows 7 8.1 and even 10 apps work on WINDOWS VISTA. And that's why you use vista instead of 7 in 23.
+
+-Now with that aside, how about a bit of newer apps- oh wait I can't run them because boo hoo my .net framework is too old I'm so sad! Apparently, it's not. You can install the LATEST .net framework aka 4.8 on Vista with a bit of tweaking in the package xml that I'll mention later again.
+
+-Anddddd behold! all your .net fw apps somehow work!
+
+-But wait, I have a third generation lower end Intel IGPU. It doesn't support Vista! No, you're wrong. Intel never officially released a package for Intel HD 2500 drivers for Vista however they did so for 4000 and well.... as it turns out as they both are the same generation you can just..... use hd 4000 driver packages as the intel devs were stupid enough to port the fallback 2500 drivers in it to vista? what the fuck wow.
+
+-Oh wait I use Novidod gtx 1060 there are no drivers available for it! Also wrong, some mad lads ported drivers for 10xx series or something to Vista.
+
+
+I'll work more on this later, oh and if you're wondering this is more of a vent but it didn't belong in venting so I placed it here :DDDD
